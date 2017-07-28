@@ -21,4 +21,4 @@ warning: you need to have acces to Galaxy main folder
 2. copy the "5S_tools" folder into your "galaxy/tools" folder
 3. copy all lines of the "section_a_rajouter_a_tool_conf.xml" file in the end of the tools list into the "galaxy/config/tool_conf.xml" file (you may save it before)
 4. restart Galaxy for saving changes
-5. tools can be used separated on in workflow
+5. tools can be used separated or in workflow
