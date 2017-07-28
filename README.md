@@ -1,9 +1,9 @@
-# 5Stools
+############## 5Stools ####################################################################################################
 
 
 # Command line tools ######################################################################################################
 
-# INSTALL
+INSTALL
 
 1. unpack command line tools tar.gz
 2. copy the tools into your working bin or add the folder to your path and made them executable [chmod u/g/o+x] (optionnal)
@@ -13,7 +13,7 @@ reminder: some tools need an others tool output in input
 
 # Galaxy version ##########################################################################################################
 
-# INSTALL
+INSTALL
 
 warning: you need to have acces to Galaxy main folder
 
